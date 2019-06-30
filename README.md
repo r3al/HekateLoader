@@ -12,5 +12,7 @@ HekateLoader is a piece of software that allows you to reboot to the Hekate payl
 - Rename hbl.nsp to exefs.nsp
 
 ## Credits
-SwitchBrew - https://github.com/switchbrew/nx-hbloader
-CTCaer - https://github.com/CTCaer/hekate/releases
+- SwitchBrew - https://github.com/switchbrew/nx-hbloader 
+- CTCaer - https://github.com/CTCaer/hekate/releases 
+- Team ReSwitched - https://github.com/Atmosphere-NX/Atmosphere
+
